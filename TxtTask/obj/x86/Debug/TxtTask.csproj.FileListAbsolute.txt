@@ -1,0 +1,11 @@
+F:\C#\TxtTask\TxtTask\bin\Debug\TxtTask.exe
+F:\C#\TxtTask\TxtTask\bin\Debug\TxtTask.pdb
+F:\C#\TxtTask\TxtTask\obj\x86\Debug\TxtTask.csprojResolveAssemblyReference.cache
+F:\C#\TxtTask\TxtTask\obj\x86\Debug\TxtTask.Form1.resources
+F:\C#\TxtTask\TxtTask\obj\x86\Debug\TxtTask.Properties.Resources.resources
+F:\C#\TxtTask\TxtTask\obj\x86\Debug\TxtTask.csproj.GenerateResource.Cache
+F:\C#\TxtTask\TxtTask\obj\x86\Debug\TxtTask.exe
+F:\C#\TxtTask\TxtTask\obj\x86\Debug\TxtTask.pdb
+F:\C#\TxtTask\TxtTask\obj\x86\Debug\TxtTask.Form2.resources
+F:\C#\TxtTask\TxtTask\obj\x86\Debug\TxtTask.Form3.resources
+F:\C#\TxtTask\TxtTask\obj\x86\Debug\TxtTask.Form4.resources
